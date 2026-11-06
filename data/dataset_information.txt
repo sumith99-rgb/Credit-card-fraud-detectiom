@@ -1,0 +1,12 @@
+Dataset Name: Credit Card Fraud Detection
+File Name: fraudTest.csv
+Number of Records: 555,719
+Number of Columns: 23
+Target Variable: is_fraud
+
+Description:
+The dataset contains credit card transaction
+information used for fraud detection analysis.
+
+The original dataset is not included in this
+public repository due to sensitive information.
